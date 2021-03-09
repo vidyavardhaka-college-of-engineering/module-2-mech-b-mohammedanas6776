@@ -11,13 +11,13 @@ int main()
   printf("Enter number of elements in the array, array elements and the key");
   scanf("%d", &n);
 
-  printf("enter the elements ");
+  printf(" elements ");
   for (c = 0; c < n; c++)
   {
     scanf("%d", &array[c]);
 
   }
-  printf("enter the search elements");
+  printf("the search elements");
  
   scanf("%d", &search);
 
